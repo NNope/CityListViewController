@@ -1,5 +1,5 @@
 //
-//  JFCityHeaderView.m
+//  CityHeaderView.m
 //
 //  Copyright © 2016年 谈Xx. All rights reserved.
 //
@@ -186,11 +186,6 @@
         self.areaBtnBlock(sender.selected);
     }
 }
-
-//- (void)cityNameBlock:(JFCityHeaderViewBlock)block
-//{
-//    self.cityNameBlock = block;
-//}
 
 #pragma mark --- UISearchBarDelegate
 

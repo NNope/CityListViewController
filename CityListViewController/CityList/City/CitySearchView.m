@@ -1,5 +1,5 @@
 //
-//  JFSearchView.m
+//  SearchView.m
 //
 //  Copyright © 2016年 谈Xx. All rights reserved.
 //

@@ -1,5 +1,5 @@
 //
-//  JFSearchView.h
+//  SearchView.h
 //
 //  Copyright © 2016年 谈Xx. All rights reserved.
 //
